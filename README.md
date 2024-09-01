@@ -1,4 +1,4 @@
-# Blockless-rust-sdk
+# Blockless_rust_sdk
 "A Rust SDK for managing and executing WebAssembly modules on the Blockless platform"
 
 ## Overview
