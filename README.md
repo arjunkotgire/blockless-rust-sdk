@@ -50,8 +50,8 @@ getrandom = { version = "0.2", features = ["js"] }
 To get started, clone the repository and set up the project dependencies.
 
 ```bash
-git clone https://github.com/arjunkotgire/blockless-rust-sdk
-cd blockless-rust-sdk
+git clone https://github.com/arjunkotgire/blockless_rust_sdk
+cd blockless_rust_sdk
 cargo build 
 ```
 
